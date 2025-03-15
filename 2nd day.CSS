@@ -1,0 +1,46 @@
+.box{
+    width: 200px;
+    height: 200px;
+    padding: 30px;
+    background-color: bisque;
+    text-align: center;
+    margin: auto;
+}
+
+.box1 {
+    width: 200px;
+    height: 200px;
+    padding: 30px;
+    background-color: purple;
+    text-align: center;
+}
+body{
+    margin: ;
+}
+li{
+    list-style: none;
+    text-decoration: none;
+}
+ul{
+    display: flex;
+}
+h1{
+    text-shadow: 6px 5px 4px rebeccapurple ;
+}
+h1:hover{
+    text-shadow: 6px 5px 4px yellowgreen ;
+   
+}
+button{
+    color: blueviolet;
+    background-color: red;
+    border-radius: 5px;
+    padding: 30px;
+}
+button:hover{
+    color: antiquewhite;
+    background-color: brown;
+    padding: 30px;
+     border-radius: 5px ;
+     margin-left:400px;
+}

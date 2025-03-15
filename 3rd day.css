@@ -1,0 +1,24 @@
+h1{
+    color: yellow;
+    justify-content: center;
+    
+}
+body{
+    background-image: url(cat\ 2.jpg);
+    background-attachment: fixed;
+    background-size: fixed;
+    text-align: center;
+    margin-top: 30%;
+    
+}
+button1{
+    background-color: azure;
+}
+button2{
+    background-color: aquamarine;
+    background-size: 50px;
+}
+img{
+    width: 10px;
+    height: 10px;
+}
